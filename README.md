@@ -41,6 +41,7 @@ Follow these steps to run the project locally on your machine:
 The application will open automatically in your browser at http://localhost:3000.
 
 📂 Project Structure
+
 ├── public/          # Static assets and index.html
 └── src/             # Application source code
     ├── components/  # Reusable UI components (ContactCard, AddContact, etc.)
